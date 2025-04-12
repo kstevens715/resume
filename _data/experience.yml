@@ -1,19 +1,51 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Modo Labs
+  position: Senior Software Engineer
+  duration: 2021 &mdash; Present
+  summary:
+    - <ul>
+    - <li>Led end-to-end development of a Ruby on Rails application powering the Bookings API for a solution used by Fortune 100 banks.</li>
+    - <li>Collaborated with product managers to refine requirements and translate them into actionable tasks for a team of six engineers.</li>
+    - <li>Defined new engineering standards with the Bookings API, influencing patterns adopted in both existing codebases and subsequent Rails apps.</li>
+    - </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: HackerOne / PullRequest
+  position: Code Reviewer
+  duration: 2018 &mdash; Present
+  summary:
+    - <ul>
+    - <li>PullRequest is a code-review-as-a-service platform. Did code reviews as a part-time, independent contractor.</li>
+    - <li>Reviewed pull requests written in Ruby, JavaScript and TypeScript.</li>
+    - </ul>
 
+- company: Data Axle
+  position: Senior Software Engineer
+  duration: 2019 &mdash; 2021
+  summary:
+    - <ul>
+    - <li>Contributed to a Ruby on Rails application providing data on over 15 million businesses and 300 million people, collaborating with a highly experienced team of Rails developers.</li>
+    - <li>Improved and extended a Rails + Sidekiq data pipeline that processes millions of updates per month.</li>
+    - <li>Led development of a new source ingestion project using Python and Spark (PySpark) to standardize raw data into JSON format for downstream Rails processing.</li>
+    - <li>Gained hands-on experience with AWS Athena, Glue, and collaborated with a Machine Learning team to deploy and integrate ML models.</li>
+    - </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Liaison International
+  position: Principal Software Enginee
+  duration: 2013 &mdash; 2019
+  summary:
+    - <ul>
+    - <li>Worked on a data-centric Ruby on Rails application used by many well-known colleges and universities for admissions decisions.</li>
+    - <li>Led teams of engineers in the design and development of new features and enhancements.</li>
+    - <li>Spearheaded a successful, incremental upgrade of a large monolithic Rails app to newer versions of Ruby and Rails.</li>
+    - <li>Scaled the application to support a new client with tens of thousands of applicants.</li>
+    - <li>Contributed to numerous data quality initiatives and API improvements.</li>
+    - </ul>
+
+- company: The Northeast Group
+  position: Senior Software Engineer
+  duration: 2006 &mdash; 2013
+  summary:
+    - <ul>
+    - <li>Designed, developed, maintained, and supported a full-featured Warehouse Management System (WMS).</li>
+    - <li>Developed core WMS features including order and inventory management, integrated UPS shipping, invoicing, QuickBooks integration, freight auditing, bill of lading generation, and barcode scanning workflows.</li>
+    - <li>Collaborated with well-known e-commerce clients to integrate their sites with the warehouse and supported traditional clients in selling on platforms like Nordstrom.com, Amazon.com, and Sears.com.</li>
+    - </ul>
